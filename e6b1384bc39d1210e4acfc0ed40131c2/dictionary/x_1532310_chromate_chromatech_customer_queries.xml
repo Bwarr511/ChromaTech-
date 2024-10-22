@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ef9d700fc3dd1210e4acfc0ed401316f" extends="task" label="ChromaTech Customer Queries" max_length="40" name="x_1532310_chromate_chromatech_customer_queries" type="collection">
+        <element label="VIP Query" max_length="40" name="vip_query" type="boolean"/>
+        <element label="Requester" max_length="32" name="requester" reference="sys_user" type="reference"/>
+        <element label="First Reported On" max_length="40" name="first_reported_on" type="glide_date_time"/>
+        <element choice="1" label="Issue State" max_length="40" name="issue_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="New" value="new"/>
+                <element inactive_on_update="false" label="In Progress" value="in_progress"/>
+                <element inactive_on_update="false" label="Closed" value="closed"/>
+                <element inactive_on_update="false" label="On Hold" value="on hold"/>
+            </choice>
+        </element>
+        <element label="Email" max_length="16" name="email" type="string"/>
+        <element choice="1" label="Issue Category" max_length="40" name="issue_category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Hardware" value="hardware"/>
+                <element inactive_on_update="false" label="Firmware" value="firmware"/>
+            </choice>
+        </element>
+        <element label="Place" max_length="32" name="place" reference="cmn_location" type="reference"/>
+        <element label="Product" max_length="32" name="product" reference="u_chromatech_sold_products" type="reference"/>
+        <element choice="1" label="On Hold Reason" max_length="40" name="on_hold_reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Awaiting Caller" value="awaiting caller"/>
+                <element inactive_on_update="false" label="Awaiting Vendor" value="awaiting vendor"/>
+            </choice>
+        </element>
+        <element label="Phone" max_length="16" name="phone" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="dcfe61cbc3d15210e4acfc0ed40131b5" sys_domain="global" table="x_1532310_chromate_chromatech_customer_queries" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:45:55</sys_created_on>
+            <sys_id>d36f2dcbc3d15210e4acfc0ed4013103</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requester</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:45:55</sys_created_on>
+            <sys_id>db6f2dcbc3d15210e4acfc0ed4013103</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_type</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:45:55</sys_created_on>
+            <sys_id>d36f2dcbc3d15210e4acfc0ed4013104</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:45:55</sys_created_on>
+            <sys_id>db6f2dcbc3d15210e4acfc0ed4013104</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_reported_on</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:45:55</sys_created_on>
+            <sys_id>d36f2dcbc3d15210e4acfc0ed4013105</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:45:55</sys_created_on>
+            <sys_id>db6f2dcbc3d15210e4acfc0ed4013105</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:45:55</sys_created_on>
+            <sys_id>d36f2dcbc3d15210e4acfc0ed4013106</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:45:55</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:45:55</sys_created_on>
+            <sys_id>db6f2dcbc3d15210e4acfc0ed4013106</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:45:55</sys_created_on>
+            <sys_id>d36f2dcbc3d15210e4acfc0ed4013107</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:45:55</sys_created_on>
+            <sys_id>db6f2dcbc3d15210e4acfc0ed4013107</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:45:55</sys_created_on>
+            <sys_id>d36f2dcbc3d15210e4acfc0ed4013108</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:45:55</sys_created_on>
+            <sys_id>db6f2dcbc3d15210e4acfc0ed4013108</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:45:55</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:45:55</sys_created_on>
+            <sys_id>d36f2dcbc3d15210e4acfc0ed4013109</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:45:55</sys_created_on>
+            <sys_id>db6f2dcbc3d15210e4acfc0ed4013109</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:53:12</sys_created_on>
+            <sys_id>0e11318fc3d15210e4acfc0ed4013180</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:53:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:53:48</sys_created_on>
+            <sys_id>7a31358fc3d15210e4acfc0ed4013168</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:53:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>place</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:54:21</sys_created_on>
+            <sys_id>ba51f58fc3d15210e4acfc0ed40131eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:54:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>issue_category</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:54:55</sys_created_on>
+            <sys_id>0371b98fc3d15210e4acfc0ed40131a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:54:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>issue_state</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:56:10</sys_created_on>
+            <sys_id>65c1f1cfc3d15210e4acfc0ed401311b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:56:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>on_hold_reason</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 20:00:41</sys_created_on>
+            <sys_id>ebc27903c3155210e4acfc0ed4013168</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 20:00:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vip_query</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-22 09:59:10</sys_created_on>
+            <sys_id>16b23cd3c3d19210e4acfc0ed4013130</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1532310_chromate_chromatech_customer_queries" sys_domain="global" view="Default view">dcfe61cbc3d15210e4acfc0ed40131b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-22 09:59:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1532310_chromate_chromatech_customer_queries</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-21 19:43:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dcfe61cbc3d15210e4acfc0ed40131b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1532310_chromate_chromatech_customer_queries</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ChromaTech Customer Queries" source="x_1532310_chromate">e6b1384bc39d1210e4acfc0ed40131c2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ChromaTech Customer Queries">e6b1384bc39d1210e4acfc0ed40131c2</sys_scope>
+            <sys_update_name>sys_ui_section_dcfe61cbc3d15210e4acfc0ed40131b5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-21 19:43:48</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

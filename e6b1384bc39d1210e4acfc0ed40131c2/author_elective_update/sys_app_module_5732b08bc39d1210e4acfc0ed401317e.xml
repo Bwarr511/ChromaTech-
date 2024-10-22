@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="ChromaTech Customer Queries">5b32b08bc39d1210e4acfc0ed4013178</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>ChromaTech Customer Queries</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-21 15:18:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5732b08bc39d1210e4acfc0ed401317e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ChromaTech Customer Queries</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ChromaTech Customer Queries" source="x_1532310_chromate">e6b1384bc39d1210e4acfc0ed40131c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ChromaTech Customer Queries">e6b1384bc39d1210e4acfc0ed40131c2</sys_scope>
+        <sys_update_name>sys_app_module_5732b08bc39d1210e4acfc0ed401317e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-21 15:18:35</sys_updated_on>
+        <timeline_page/>
+        <title>ChromaTech Customer Queries</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ChromaTech Customer Queries">e6b1384bc39d1210e4acfc0ed40131c2</application>
+        <file_path/>
+        <instance_id>93bd14ed1b014690a43dcb7b234bcb03</instance_id>
+        <instance_name>dev245041</instance_name>
+        <name>sys_app_module_5732b08bc39d1210e4acfc0ed401317e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="ChromaTech Customer Queries">5b32b08bc39d1210e4acfc0ed4013178</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>ChromaTech Customer Queries</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>1</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-21 15:18:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5732b08bc39d1210e4acfc0ed401317e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ChromaTech Customer Queries</sys_name><sys_overrides/><sys_package display_value="ChromaTech Customer Queries" source="x_1532310_chromate">e6b1384bc39d1210e4acfc0ed40131c2</sys_package><sys_policy/><sys_scope display_value="ChromaTech Customer Queries">e6b1384bc39d1210e4acfc0ed40131c2</sys_scope><sys_update_name>sys_app_module_5732b08bc39d1210e4acfc0ed401317e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-21 15:18:35</sys_updated_on><timeline_page/><title>ChromaTech Customer Queries</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1909303530</payload_hash>
+        <record_name>ChromaTech Customer Queries</record_name>
+        <reverted_from/>
+        <source>e2b1384bc39d1210e4acfc0ed40131c7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-21 15:18:35</sys_created_on>
+        <sys_id>5732304fc39d1210e4acfc0ed40131c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192afa89cc40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-21 15:18:35</sys_updated_on>
+        <type>Module</type>
+        <update_guid>1332b08bb19d121095169085c3ac3481</update_guid>
+        <update_guid_history>1332b08bb19d121095169085c3ac3481:1909303530</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ChromaTech Customer Queries">3bf5b043c3dd1210e4acfc0ed401316e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-21 15:35:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0925eee86b5e48e1892f15dfebcf4c71</sys_id>
+        <sys_metadata>5732b08bc39d1210e4acfc0ed401317e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ChromaTech Customer Queries</sys_name>
+        <sys_package display_value="ChromaTech Customer Queries" source="x_1532310_chromate">e6b1384bc39d1210e4acfc0ed40131c2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ChromaTech Customer Queries">e6b1384bc39d1210e4acfc0ed40131c2</sys_scope>
+        <sys_scope_delete display_value="">36f4e83ab91346a09affaa1ded8afa10</sys_scope_delete>
+        <sys_update_name>sys_app_module_5732b08bc39d1210e4acfc0ed401317e</sys_update_name>
+        <sys_update_version display_value="sys_app_module_5732b08bc39d1210e4acfc0ed401317e">5732304fc39d1210e4acfc0ed40131c2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-21 15:35:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

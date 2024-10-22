@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="103b2547c3d15210e4acfc0ed4013123" label="ChromaTech Sold Products" max_length="40" name="x_1532310_chromate_chromatech_sold_products" type="collection">
+        <element choice="1" label="Product Type" max_length="40" name="product_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Air Conditioners" value="air_conditioners"/>
+                <element inactive_on_update="false" label="Coolers" value="coolers"/>
+                <element inactive_on_update="false" label="Ceiling Fans" value="ceiling_fans"/>
+            </choice>
+        </element>
+        <element label="Serial Number" max_length="50" name="serial_number" type="string"/>
+        <element label="Date Sold On" max_length="40" name="date_sold_on" type="glide_date_time"/>
+        <element label="Warranty Extending Date" max_length="40" name="warranty_extending_date" type="glide_date_time"/>
+        <element label="Warranty Period" max_length="40" name="warranty_period" type="integer"/>
+        <element label="Cost" max_length="20" name="cost" type="price"/>
+        <element label="Sold To" max_length="32" name="sold_to" reference="sys_user" type="reference"/>
+        <element label="Warranty Expiring at" max_length="40" name="warranty_expiring_at" type="glide_date_time"/>
+        <element label="Product Name" max_length="60" name="product_name" type="string"/>
+        <element label="is Extended Warranty" max_length="40" name="is_extended_warranty" type="boolean"/>
+        <element label="Manufacturing" max_length="40" name="manufacturing" type="glide_date_time"/>
+        <index name="index">
+            <element name="sold_to"/>
+        </index>
+    </element>
+</database>
